@@ -1,0 +1,16 @@
+{
+  "name": "node-valheim-core",
+  "version": "1.0.0",
+  "description": "Valheim core classes in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "reinstall": "npm uninstall && npm install",
+    "reinstallrun": "npm uninstall && npm install && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonyleeson",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
